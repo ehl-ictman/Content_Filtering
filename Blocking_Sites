@@ -1,5 +1,5 @@
 ! Title: EHL DNS filter
-! Description: List composed of several filters and simplified specifically to be better compatible with NICTA Rules and Regulation
+! Description: List composed of several filters and simplified specifically to be complied with NICTA Rules and Regulation.
 ! Source : NICTA Default Blocklist
 
 1001xxx.com
